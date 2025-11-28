@@ -1,0 +1,19 @@
+
+Jestem tablica wektorow pod adresem: 0000002F2D9FF1F8
+Moj wymiar to: 2
+A tablice podrzedne to: 
+[[0]] : 
+Jestem wektorem pod adresem: 00000229637442C8
+VektorNd (wymiar = 3): [0] = 	1
+[1] = 	2
+[2] = 	3
+
+
+[[1]] : 
+Jestem wektorem pod adresem: 00000229637442D8
+VektorNd (wymiar = 4): [0] = 	9
+[1] = 	8
+[2] = 	7
+[3] = 	6
+
+
